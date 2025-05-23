@@ -1,0 +1,30 @@
+table{
+    margin: auto;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-collapse: collapse;
+}
+tr,td{
+    border: 1px dotted black;
+    padding: 4px;
+}
+.jaune{
+    background-color: yellow;
+    
+}
+.gris{
+    background-color: grey;
+    
+}
+.bleu{
+    background-color: blue;
+    
+}
+.noir{
+    background-color: black;
+    
+}
+.blanc{
+    background-color: white;
+}
